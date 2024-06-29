@@ -1,2 +1,5 @@
-package com.example.demo.domain;public class BaseEntity {
+package com.example.demo.domain;
+
+public class BaseEntity {
+
 }
